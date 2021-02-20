@@ -1,0 +1,8 @@
+C:\Users\thiag\source\repos\SimpleProgram\Database\bin\Debug\netstandard2.0\Database.deps.json
+C:\Users\thiag\source\repos\SimpleProgram\Database\bin\Debug\netstandard2.0\Database.dll
+C:\Users\thiag\source\repos\SimpleProgram\Database\bin\Debug\netstandard2.0\Database.pdb
+C:\Users\thiag\source\repos\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.AssemblyInfo.cs
+C:\Users\thiag\source\repos\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.dll
+C:\Users\thiag\source\repos\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.pdb
