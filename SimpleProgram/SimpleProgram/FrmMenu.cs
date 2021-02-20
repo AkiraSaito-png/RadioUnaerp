@@ -24,7 +24,6 @@ namespace UI
 
         private void tileProgramas_Click(object sender, EventArgs e)
         {
-            this.Hide();
             FrmProgramas frmprograma = new FrmProgramas();
             frmprograma.Show();
         }
