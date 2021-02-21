@@ -16,7 +16,11 @@ namespace UI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmLogin());
+            FrmLogin formLogin = new FrmLogin();
+            if(formLogin.ShowDialog() == DialogResult.OK)
+            {
+                Application.Run(new FrmMenu());
+            }            
         }
     }
 }

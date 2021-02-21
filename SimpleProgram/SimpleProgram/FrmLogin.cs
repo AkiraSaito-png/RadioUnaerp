@@ -19,12 +19,13 @@ namespace UI
 
 
         private void btnLogin_Click(object sender, EventArgs e)
-        {
+        {         
             if (txtUser.Text == "thiago" && txtSenha.Text == "123")
             {
-                FrmMenu formMenu = new FrmMenu();
-                formMenu.Show();
-            }
+                /*FrmMenu formMenu = new FrmMenu();
+                formMenu.Show();*/
+                DialogResult = DialogResult.OK;
+            }            
         }
     }
 }

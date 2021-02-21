@@ -144,5 +144,6 @@
   <ItemGroup>
     <None Include="Resources\icons8-key-64.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
