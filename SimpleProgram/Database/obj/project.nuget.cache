@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NGjiMfSzur0c4Fx4F66yqNtnW1stcbDxDJfff1STV+jWGzFp2OqpAYEJ9TtRsCUm9PKob3DIF7dR/Bo/TpElCA==",
+  "dgSpecHash": "+YblfwJy6HzhaIikqotALOsu0Jf8/o/cXCB0ojJpAv5pbMdWHp7LUX9omkCwjtY1iazMY4tTvp9ZKJw7A4aykg==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Git\\RadioUnaerp\\SimpleProgram\\Database\\Database.csproj",
+  "projectFilePath": "D:\\GitRepositories\\RadioUnaerp\\SimpleProgram\\Database\\Database.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\akira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\akira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

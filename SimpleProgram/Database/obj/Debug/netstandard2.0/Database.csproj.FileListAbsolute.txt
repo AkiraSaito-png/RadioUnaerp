@@ -6,3 +6,12 @@ C:\Users\thiag\source\repos\SimpleProgram\Database\obj\Debug\netstandard2.0\Data
 C:\Users\thiag\source\repos\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.csproj.CoreCompileInputs.cache
 C:\Users\thiag\source\repos\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.dll
 C:\Users\thiag\source\repos\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.pdb
+D:\GitRepositories\RadioUnaerp\SimpleProgram\Database\bin\Debug\netstandard2.0\Database.deps.json
+D:\GitRepositories\RadioUnaerp\SimpleProgram\Database\bin\Debug\netstandard2.0\Database.dll
+D:\GitRepositories\RadioUnaerp\SimpleProgram\Database\bin\Debug\netstandard2.0\Database.pdb
+D:\GitRepositories\RadioUnaerp\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.csprojAssemblyReference.cache
+D:\GitRepositories\RadioUnaerp\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.AssemblyInfoInputs.cache
+D:\GitRepositories\RadioUnaerp\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.AssemblyInfo.cs
+D:\GitRepositories\RadioUnaerp\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.csproj.CoreCompileInputs.cache
+D:\GitRepositories\RadioUnaerp\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.dll
+D:\GitRepositories\RadioUnaerp\SimpleProgram\Database\obj\Debug\netstandard2.0\Database.pdb
