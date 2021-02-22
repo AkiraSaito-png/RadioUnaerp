@@ -8,6 +8,9 @@ namespace UI
 {
     static class Program
     {
+        //PROGRAMA DESENVOLVIDO POR ALESSANDRO SAITO E THIAGO ALCARÁS
+
+
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
         /// </summary>
