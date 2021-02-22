@@ -1,0 +1,18 @@
+﻿// Scripts utilizados na criação do banco de dados SQL service Express 2019
+
+// Projeto realizado por Alessandro Saito e Thiago Alcarás.
+// O tarabalho teve inicio no dia 19 de fevereiro de 2021 e não tem uma previsão de termino.
+									//
+---------------------------------------------------------------------------------------
+									//
+// Criação da tabela de cadastro de alunos:
+
+CREATE TABLE TAB_CADASTRO_ALUNO(
+	COD_ALUNO INT PRIMARY KEY NOT NULL,
+	NOME_ALUNO VARCHAR(200), 
+	TEL_ALUNO VARCHAR(20),
+	CEL_ALUNO VARCHAR(20),
+	ETAPA_ALUNO INT,
+	PROGRAMA_AUNO VARCHAR(200)
+)
+
